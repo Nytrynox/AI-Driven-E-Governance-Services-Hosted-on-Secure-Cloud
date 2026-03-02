@@ -1,40 +1,36 @@
-# AI-Driven E-Governance Services
+<div align="center">
+
+# AI Driven E Governance Services Hosted on Secure Cloud
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Language" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=law&logoColor=white" alt="License" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
+</p>
+
+*An advanced software structure developed by Karthik Idikuda.*
+
+<br/>
+
+</div>
 
 ## Overview
-A secure, cloud-hosted platform facilitating the delivery of government services through AI automation. Roughly designed to improve citizen engagement, reduce bureaucratic latency, and ensure transparent data handling.
+Automated grievance redressal system using NLP for classification.
 
-## Features
--   **Automated Triage**: AI classifies citizen grievances and routes them to departments.
--   **Secure Cloud**: Hosted on an encrypted infrastructure compliant with data sovereignty laws.
--   **Chatbot Interface**: 24/7 NLP-powered assistant for answering public queries.
--   **Fraud Detection**: ML analyses of benefit claims to prevent misuse.
+<br/>
 
-## Technology Stack
--   **Cloud**: AWS / Azure.
--   **AI**: TensorFlow / BERT for document classification.
--   **Backend**: Node.js microservices.
--   **Security**: OAuth 2.0, AES-256 encryption.
+## Architecture & Features
+- **Clean Architecture:** Ensures high maintainability and modular structure.
+- **Optimized Performance:** Built to handle intensive operations with minimal latency.
+- **Scalable Design:** Seamlessly adaptable for future functional expansions.
 
-## Usage Flow
-1.  **User Entry**: Citizen logs in via the secure portal.
-2.  **Service Request**: User submits a form or queries the chatbot.
-3.  **Processing**: AI validates documents and routes the request.
-4.  **Fulfillment**: Government official reviews and approves the service.
-
-## Quick Start
-```bash
-# Clone the repository
-git clone "https://github.com/Nytrynox/AI-Driven-E-Governance.git"
-
-# Install dependencies
-npm install
-
-# Deploy to local cloud emulator
-npm run deploy:local
-```
+<br/>
 
 ## License
-MIT License
+This project operates under the **MIT License**. See the `LICENSE` file for more details.
 
-## Author
-**Karthik Idikuda**
+---
+<div align="center">
+  <br/>
+  <i>Engineered by <b>Karthik Idikuda</b></i>
+</div>
